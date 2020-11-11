@@ -1,0 +1,14 @@
+
+Cpanel Username: eb2a_27165381
+Cpanel Password: dorymefa
+Your URL: http://calmdown.eb2a.com or http://www.calmdown.eb2a.com
+FTP Server : ftpupload.net
+FTP Login : eb2a_27165381
+FTP Password : dorymefa
+MySQL Database Name: MUST CREATE IN CPANEL
+MySQL Username : eb2a_27165381
+MySQL Password : dorymefa
+MySQL Server: SEE THE CPANEL
+
+
+Cpanel URL: http://cpanel.eb2a.com/
